@@ -1,0 +1,1153 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fo",
+				"for_of"
+			],
+			[
+				"_tas",
+				"_task_num"
+			],
+			[
+				"cre",
+				"_create_solve"
+			],
+			[
+				"i",
+				"inline-block"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"gri",
+				"grid-template"
+			],
+			[
+				"pop",
+				"popup_name"
+			],
+			[
+				"_crea",
+				"_create_task_3"
+			],
+			[
+				"ty",
+				"types"
+			],
+			[
+				"_ta",
+				"_task_num"
+			],
+			[
+				"for",
+				"for_of"
+			],
+			[
+				"if",
+				"if_skip"
+			],
+			[
+				"_cu",
+				"_count_task"
+			],
+			[
+				"o",
+				"orange"
+			],
+			[
+				"bor",
+				"border_"
+			],
+			[
+				"in",
+				"input"
+			],
+			[
+				"bo",
+				"border_"
+			],
+			[
+				"_t",
+				"_task_num"
+			],
+			[
+				"su",
+				"sup"
+			],
+			[
+				"me",
+				"method"
+			],
+			[
+				"le",
+				"lenght"
+			],
+			[
+				"_cou",
+				"_count_call_difined"
+			],
+			[
+				"_ma",
+				"_mark_true"
+			],
+			[
+				"lo",
+				"log"
+			],
+			[
+				"qu",
+				"querySelectorAll"
+			],
+			[
+				"tas",
+				"_task_num"
+			],
+			[
+				"_cre",
+				"_create_task_1"
+			],
+			[
+				"ta",
+				"_task_num"
+			],
+			[
+				"sol",
+				"_solve_content"
+			],
+			[
+				"popu",
+				"popup_link"
+			],
+			[
+				"x-",
+				"x-popup"
+			],
+			[
+				"_mark_",
+				"_mark_repeat"
+			],
+			[
+				"_s",
+				"_screen_num"
+			],
+			[
+				"_b",
+				"_buttons"
+			],
+			[
+				"_",
+				"_getRandomNum"
+			],
+			[
+				"task",
+				"_tasks"
+			],
+			[
+				"met",
+				"method"
+			],
+			[
+				"get",
+				"getAttribute"
+			],
+			[
+				"p",
+				"png"
+			],
+			[
+				"s",
+				"style"
+			],
+			[
+				"cl",
+				"class_"
+			],
+			[
+				"c",
+				"classList"
+			],
+			[
+				"do",
+				"document"
+			],
+			[
+				"a",
+				"addEventListener"
+			],
+			[
+				"si",
+				"size_"
+			],
+			[
+				"cla",
+				"class_"
+			],
+			[
+				"рациона",
+				"рациональных"
+			],
+			[
+				"scre",
+				"screen_textContent_cavity"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"fon",
+				"font-family"
+			],
+			[
+				"ht",
+				"html_"
+			],
+			[
+				"he",
+				"help"
+			],
+			[
+				"cs",
+				"class_"
+			],
+			[
+				"co",
+				"content"
+			],
+			[
+				"h",
+				"html_"
+			],
+			[
+				"nu",
+				"numberColor"
+			],
+			[
+				"scr",
+				"screenHeight"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"l",
+				"log"
+			],
+			[
+				"f",
+				"for"
+			],
+			[
+				"drop",
+				"drop_to"
+			],
+			[
+				"d",
+				"drop_to"
+			],
+			[
+				"siz",
+				"size_"
+			],
+			[
+				"dr",
+				"drop_to"
+			],
+			[
+				"b",
+				"border_"
+			],
+			[
+				"id",
+				"id_"
+			],
+			[
+				"sl",
+				"slide"
+			],
+			[
+				"sli",
+				"slides"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"fun",
+				"function_arrow_"
+			],
+			[
+				"gr",
+				"grid"
+			],
+			[
+				"ca",
+				"calculator__button_number_0"
+			],
+			[
+				"t",
+				"link_style_"
+			],
+			[
+				"cr",
+				"create"
+			],
+			[
+				"m",
+				"meta_charset_"
+			],
+			[
+				"I",
+				"id_"
+			],
+			[
+				"ob",
+				"object-fit"
+			],
+			[
+				"re",
+				"repeat"
+			],
+			[
+				"C",
+				"class_"
+			],
+			[
+				"cls",
+				"class"
+			],
+			[
+				"va",
+				"variable_"
+			],
+			[
+				"v",
+				"variable_"
+			],
+			[
+				"fa",
+				"function_arrow_"
+			],
+			[
+				"elem",
+				"element"
+			],
+			[
+				"an",
+				"answers_reset"
+			],
+			[
+				"anw",
+				"answer"
+			],
+			[
+				"_ac",
+				"_answer_create"
+			],
+			[
+				"_ans",
+				"_answers"
+			],
+			[
+				"ele",
+				"element"
+			],
+			[
+				"ansr",
+				"answer"
+			],
+			[
+				"fua",
+				"function_arrow_x_"
+			],
+			[
+				"_re",
+				"_request_data"
+			],
+			[
+				"anr",
+				"answer"
+			],
+			[
+				"url_",
+				"url_user_data"
+			],
+			[
+				"dse",
+				"Deals_se"
+			],
+			[
+				"D",
+				"Deals_sd"
+			],
+			[
+				"sp",
+				"stepPercent"
+			],
+			[
+				"arr",
+				"array"
+			],
+			[
+				"is",
+				"inputs"
+			],
+			[
+				"dsed",
+				"data_selected"
+			],
+			[
+				"item_se",
+				"item_selected"
+			],
+			[
+				"_dea",
+				"_deals_results"
+			],
+			[
+				"dp",
+				"data_dbPath"
+			],
+			[
+				"data",
+				"data_select"
+			],
+			[
+				"sql",
+				"sqlite"
+			],
+			[
+				"gh",
+				"graph"
+			],
+			[
+				"val",
+				"value"
+			],
+			[
+				"se",
+				"symbolEdit"
+			],
+			[
+				"li",
+				"symbolList"
+			],
+			[
+				"de",
+				"deal_result"
+			],
+			[
+				"Op",
+				"Optimization_coords_top_base"
+			],
+			[
+				"des",
+				"deals_dates"
+			],
+			[
+				"dpr",
+				"dataProcessor"
+			],
+			[
+				"ded",
+				"deals_dates"
+			],
+			[
+				"dt",
+				"data_row"
+			],
+			[
+				"_bui",
+				"_build"
+			],
+			[
+				"im",
+				"i_max"
+			],
+			[
+				"ros",
+				"row_select"
+			],
+			[
+				"_gri",
+				"_grid_height"
+			],
+			[
+				"f__",
+				"function__\tfunction"
+			],
+			[
+				"dbr",
+				"db_record"
+			],
+			[
+				"_tra",
+				"_trade_in_signal"
+			],
+			[
+				"inp",
+				"inputs"
+			],
+			[
+				"Ar",
+				"ArrayResize"
+			],
+			[
+				"Aunzd",
+				"spring_AUDNZD"
+			],
+			[
+				"_did",
+				"_dateId"
+			],
+			[
+				"_da",
+				"_data_inputs_names"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"js",
+				"Set Syntax: Js"
+			],
+			[
+				"ht",
+				"Set Syntax: Html"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"",
+				"Test"
+			],
+			[
+				"snipp",
+				"Snippet: attribute"
+			],
+			[
+				"a",
+				"Arithmetic"
+			],
+			[
+				"h",
+				"Set Syntax: HTML"
+			],
+			[
+				"sni",
+				"Snippet: rule"
+			],
+			[
+				"sn",
+				"Snippet: property"
+			],
+			[
+				"p",
+				"Set Syntax: PHP"
+			],
+			[
+				"sq",
+				"Set Syntax: SQL"
+			],
+			[
+				"s",
+				"Set Syntax: SQL"
+			],
+			[
+				"sch",
+				"UI: Select Color Scheme"
+			],
+			[
+				"hp",
+				"Set Syntax: PHP"
+			],
+			[
+				"htm",
+				"Set Syntax: HTML"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"re",
+				"Rename File"
+			],
+			[
+				"sb",
+				"Set Syntax: SB"
+			],
+			[
+				"ren",
+				"Rename File"
+			],
+			[
+				"ar",
+				"Arithmetic"
+			],
+			[
+				"mql",
+				"Set Syntax: MQL"
+			],
+			[
+				"json",
+				"Set Syntax: JSON"
+			],
+			[
+				"th",
+				"UI: Select Theme"
+			],
+			[
+				"ya",
+				"Set Syntax: YAML"
+			],
+			[
+				"Snippet: ",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"xm\t",
+				"Set Syntax: XML"
+			],
+			[
+				"jso\t",
+				"Set Syntax: JSON"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"c++",
+				"Set Syntax: C++"
+			],
+			[
+				"xml",
+				"Set Syntax: XML"
+			],
+			[
+				"text",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"yam",
+				"Set Syntax: YAML"
+			],
+			[
+				"sql",
+				"Set Syntax: SQL"
+			],
+			[
+				"ssa",
+				"Set Syntax: A"
+			],
+			[
+				"plt",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"jso",
+				"Set Syntax: JSON"
+			],
+			[
+				"ssA",
+				"Set Syntax: A"
+			],
+			[
+				"sql\t",
+				"Set Syntax: SQL"
+			],
+			[
+				"te",
+				"Set Syntax: LaTeX Log"
+			],
+			[
+				"txt",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Remove Package"
+			],
+			[
+				"ssjs",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"C#",
+				"Set Syntax: C#"
+			],
+			[
+				"csch",
+				"UI: Select Color Scheme"
+			],
+			[
+				"color",
+				"UI: Select Color Scheme"
+			],
+			[
+				"pc",
+				"Package Control: Install Package"
+			],
+			[
+				"pa in",
+				"Package Control: Install Package"
+			],
+			[
+				"c",
+				"Set Syntax: C"
+			],
+			[
+				"c+",
+				"Set Syntax: C++"
+			],
+			[
+				"cpp",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"cp",
+				"Package Control: List Packages"
+			],
+			[
+				"rv",
+				"PackageResourceViewer: Extract Package"
+			],
+			[
+				"sche",
+				"UI: Select Color Scheme"
+			],
+			[
+				"prv",
+				"PackageResourceViewer: Extract Package"
+			],
+			[
+				"ui",
+				"UI: Select Theme"
+			],
+			[
+				"them",
+				"UI: Select Theme"
+			],
+			[
+				"pv",
+				"PackageResourceViewer: Extract Package"
+			],
+			[
+				"Packager",
+				"PackageResourceViewer: Extract Package"
+			],
+			[
+				"new",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 416.0,
+		"history":
+		[
+			"from turtle import*\n\nup()\ngoto(-30, 40)\ndown()",
+			"/?",
+			"?",
+			"help?",
+			"help",
+			"clr()",
+			"clr",
+			"clear"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/Web/Sayts/Algebra/Combinatorics/Api/Components/Tasks/Tasks.css",
+		"/D/Web/Sayts/Algebra/Combinatorics/index.html",
+		"/D/Web/Sayts/Algebra/Combinatorics/ServiceWorker/Server.js",
+		"/D/Web/Sayts/Algebra/Combinatorics/ServiceWorker/Options.js",
+		"/D/Web/Sayts/Algebra/Combinatorics/ServiceWorker/Client.js",
+		"/D/Web/Apps/Converter/ServiceWorker/Client.js",
+		"/D/Web/Sayts/Algebra/Combinatorics/Main/Main.js",
+		"/D/Web/Apps/Converter/Main/Main.js",
+		"/D/Web/Sayts/Algebra/Combinatorics/ServiceWorker.js",
+		"/D/Web/Apps/Converter/Main/Main.webmanifest",
+		"/D/Web/Sayts/Algebra/Combinatorics/Main/Main.webmanifest",
+		"/D/Web/Apps/Converter/ServiceWorker/Server.js",
+		"/D/Web/Apps/Converter/ServiceWorker/Options.js",
+		"/D/Web/Apps/Converter/ServiceWorker.js",
+		"/D/Web/Sayts/Algebra/Combinatorics/Api/Components/Tasks/Tasks.html",
+		"/D/Web/Sayts/Algebra/Combinatorics/Api/Components/Slider/Slider.js",
+		"/D/Web/Sayts/Algebra/Combinatorics/Api/Components/Tasks/Tasks.js",
+		"/D/Web/Sayts/Algebra/Combinatorics/Api/Components/Tasks/Modules/createSolve.js",
+		"/C/Apps/SublimeText/Data/Packages/Default/Default.sublime-keymap",
+		"/C/Users/Admin/Desktop/test1.py",
+		"/D/VDI/Other states/Chity/Events/НПК/2022 год/Для жюри/!/Новый текстовый документ.txt",
+		"/D/Web/Python/test.py",
+		"/D/Web/Sayts/Algebra/Combinatorics/Api/Components/Screen/Screen.css",
+		"/D/Web/Apps/HomeworkSolver/SkysmartSolver.js",
+		"/C/Apps/UsbWebServer_8.6.4/mySql/data/auto.cnf",
+		"/C/Apps/UsbWebServer_8.6.4/UsbWebServer.cmd",
+		"/D/Web/Sayts/Algebra/Combinatorics/Api/Combinatorics.js",
+		"/D/Web/Sayts/html2/index.html",
+		"/D/Web/Sayts/Algebra/Combinatorics/Api/Components/Screen/Screen.js",
+		"/D/Web/Sayts/Algebra/Combinatorics/Api/Components/Popup/Popup.js",
+		"/D/Web/Sayts/Algebra/Combinatorics/Media/font.css",
+		"/C/Users/Admin/Desktop/!/Combinatorics_1/Api/Components/Tasks/Tasks.js",
+		"/D/Web/Apps/Clock/Clock_template.html",
+		"/D/Web/API/Network.js",
+		"/D/Web/Sayts/Church/Api/Components/Carousel/Carousel.js",
+		"/D/Web/Sayts/Church/Api/Components/Component.js",
+		"/D/Web/Sayts/Church/Api/Components/Accordion/Accordion.js",
+		"/D/Web/Sayts/Church/Units/Intro/Intro.js",
+		"/D/Web/Sayts/Algebra/Combinatorics/Main/Main.css",
+		"/D/Web/Sayts/Algebra/Polynomials/Components/Algebra/Algebra.html",
+		"/D/Web/Sayts/Algebra/Combinatorics/Api/Components/Popup/Popup.css",
+		"/D/Web/Test/fraction.html",
+		"/D/Web/Sayts/Algebra/Combinatorics/Api/Components/Popup/Popup.html",
+		"/D/Web/Sayts/Algebra/Polynomials/Components/Popup/Popup.js",
+		"/D/Web/Sayts/Algebra/Combinatorics/Api/Components/Screen/Screen.html",
+		"/D/Web/Sayts/Algebra/Polynomials/Components/Popup/Popup.css",
+		"/C/Users/Admin/Desktop/hosts",
+		"/C/Windows/System32/drivers/etc/hosts",
+		"/D/Web/Sayts/Church/Api/Components/Page/Page.js",
+		"/D/Web/Sayts/Algebra/Combinatorics/Api/Components/Component.js",
+		"/D/Web/Sayts/Algebra/index.html",
+		"/C/Apps/SublimeText/Data/Packages/Js/Js.sublime-syntax",
+		"/D/Web/API/Combinatorics.js",
+		"/D/Web/API/Component.js",
+		"/C/Files/Web/Apps/Combinatorics/index.html",
+		"/C/Files/Web/Apps/Combinatorics/Api/Combinatorics.js",
+		"/C/Files/Web/Apps/Combinatorics/Api/Components/Combinatorics/Combinatorics_x.js",
+		"/C/Files/Web/Apps/Combinatorics/Api/Components/Combinatorics/Combinatorics_x.html",
+		"/C/Files/Web/Apps/Combinatorics/Api/Components/Screen/Screen.html",
+		"/C/Files/Web/Apps/Combinatorics/Api/Components/Combinatorics/Combinatorics_x.css",
+		"/C/Files/Web/Apps/Combinatorics/Api/Components/Component.js",
+		"/C/Files/Web/Apps/Combinatorics/Api/Components/Combinatorics.js",
+		"/B/Files/Web/Sayts/Algebra/Combinatorics/Main/Main.js",
+		"/B/Files/Web/Sayts/Algebra/Combinatorics/Api/Components/Combinatorics/Combinatorics.html",
+		"/B/Files/Web/Sayts/Algebra/Combinatorics/Api/Components/Combinatorics/Combinatorics.js",
+		"/B/Files/Web/Sayts/Algebra/Combinatorics/Api/Components/Combinatorics.js",
+		"/B/Files/Web/Sayts/Algebra/Combinatorics/Api/Components/Screen/Screen.js",
+		"/B/Files/Web/Sayts/Algebra/Combinatorics/index.html",
+		"/B/Files/Web/Sayts/Combinatorics/Components/Screen/Screen.css",
+		"/B/Files/Web/Sayts/Combinatorics/Components/Popup/Popup.js",
+		"/B/Files/Web/Sayts/Combinatorics/Components/Popup/Popup.css",
+		"/B/Files/Web/Sayts/Combinatorics/Components/Screen/Screen.js",
+		"/B/Files/Web/Sayts/Combinatorics/Components/Screen/Screen.html",
+		"/B/Files/Web/Sayts/Combinatorics/Components/Algebra/Algebra.html",
+		"/B/Files/Web/Sayts/Combinatorics/Components/Popup/Popup.html",
+		"/C/Files/Web/Sayts/Algebra/index.html",
+		"/B/Files/Web/Sayts/Algebra/Components/Screen/Screen.html",
+		"/B/Files/Web/Sayts/Algebra/Components/Screen/Screen.js",
+		"/B/Files/Web/Sayts/Algebra/Components/Popup/Popup.js",
+		"/B/Files/Web/Sayts/Algebra/Components/Popup/Popup.css",
+		"/B/Files/Web/Sayts/Algebra/Components/Popup/Popup.html",
+		"/C/Files/Web/Sayts/Algebra/Components/Slider/Slider_x.css",
+		"/C/Files/Web/Sayts/Algebra/Components/Slider/Slider.css",
+		"/C/Files/Web/Sayts/Algebra/Components/Screen/Screen.html",
+		"/C/Files/Web/Sayts/Algebra/Components/Screen/Screen.css",
+		"/C/Files/Web/Sayts/Algebra/Components/Slider/Slider.html",
+		"/C/Files/Web/Sayts/Algebra/Components/Screen/Screen.js",
+		"/C/Files/Web/Sayts/Algebra/Components/Slider/Slider.js",
+		"/C/Files/Web/Sayts/Algebra/Components/Popup/Popup.css",
+		"/C/Files/Web/Sayts/Algebra/Components/Algebra/Algebra.js",
+		"/C/Files/Web/Sayts/Algebra/Components/Algebra/Algebra.css",
+		"/C/Files/Web/Sayts/Algebra/Main/Main.css",
+		"/C/Files/Web/Sayts/Algebra/Main/Main.js",
+		"/C/Users/nkosc/OneDrive/Рабочий стол/Algebra/Main/Main.css",
+		"/C/Files/Web/Sayts/Algebra/!/algebra-main/index.html",
+		"/C/Users/nkosc/OneDrive/Рабочий стол/Algebra/Components/Algebra/Algebra.html",
+		"/C/Users/nkosc/OneDrive/Рабочий стол/Algebra/Components/Algebra/Algebra.js",
+		"/C/Files/Web/Sayts/Algebra/Media/font.css",
+		"/C/Files/Web/Apps/Components/01-cards-sources/styles.css",
+		"/C/Files/Web/Sayts/Algebra/!/algebra-main/style.css",
+		"/E/FirefoxPortable/dance.css",
+		"/C/Files/Web/Sayts/Chity.ru/mein.html",
+		"/C/Files/Web/Sayts/Chity.ru/style.css",
+		"/C/Files/Web/Sayts/Agrest/desktop.html",
+		"/C/Files/Web/Sayts/Main/products.html",
+		"/C/Files/Web/Sayts/Algebra/.gitignore",
+		"/C/Files/Web/Sayts/Algebra/style.css",
+		"/C/Files/Web/Sayts/Algebra/app.js",
+		"/C/Files/Web/Games/05-aim-game-sources/app.js",
+		"/C/Files/Web/Games/05-aim-game-sources/styles.css",
+		"/C/Files/Web/Apps/Components/02-drag-n-drop-sources/app.js",
+		"/C/Files/Web/Apps/Components/01-cards-sources/app.js",
+		"/C/Files/Web/Games/05-aim-game-sources/index.html",
+		"/C/Files/Web/Sayts/Chity.ru2/main.html",
+		"/C/Files/Web/Sayts/Chity.ru2/modules/styles/main.css",
+		"/C/Users/nkosc/OneDrive/Рабочий стол/PresentationInThePerfomance.html",
+		"/C/Files/Web/Apps/HomeworkSolver/SkysmartSolver.js",
+		"/C/Files/Web/Sayts/Chity.ru2/modules/scripts/main.js",
+		"/C/Files/Web/Apps/Components/Slider/Slider.js",
+		"/C/WPI_BELOFF_Log.txt",
+		"/C/Files/Web/Games/Tank-2/Tank.js",
+		"/C/Users/nkosc/OneDrive/Рабочий стол/Histore.txt",
+		"/C/Users/nkosc/OneDrive/Рабочий стол/activiteOffice_365.cmd",
+		"/C/Users/nkosc/OneDrive/Рабочий стол/office365/Новый текстовый документ.txt",
+		"/C/Program instal/skript.js",
+		"/C/Files/Web/Games/Tank-2/index.html",
+		"/C/Files/Web/Test/Theme.js",
+		"/C/Files/Web/SB/Test2/test2.sb"
+	],
+	"find":
+	{
+		"height": 29.0
+	},
+	"find_in_files":
+	{
+		"height": 112.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"type",
+			"con",
+			"_task",
+			"_task_num",
+			"_solve_content",
+			"solve_1",
+			"type",
+			"conditions",
+			"\"",
+			"', ",
+			"conditions",
+			"type",
+			"onclick",
+			"{",
+			"/*this._answers[this._task_num].value,*/",
+			"// this._answers = this._body.querySelectorAll('input');",
+			"this._answers[this._task_num].value,",
+			"[i]",
+			"i",
+			"else",
+			"border",
+			".style.border",
+			"      answer[0].textContent = this._result_true;\n      answer[1].textContent = this._result_true;",
+			"let answer = this._solve_content[this._task_num].querySelectorAll('.answer');",
+			"let",
+			"../../../Media/formula2.png",
+			"<li>Вспомним формулу <img src='#'></li>",
+			"<input",
+			"font",
+			"Font",
+			"font",
+			"span",
+			"i",
+			"log",
+			"_count_call_difined",
+			"_tasks",
+			"_content",
+			"_buttons",
+			"_solve",
+			"_task_1",
+			"_screens",
+			"defined",
+			"thi",
+			"methods_k",
+			"difference_k",
+			"k_combination",
+			"n_k",
+			"count",
+			"power",
+			"combinatorics_x",
+			"<c-screen>",
+			"c-screen",
+			"<c-screen>",
+			"jpg",
+			"-",
+			"sub",
+			"h1",
+			"p",
+			"h1",
+			"mousdown",
+			"variable",
+			"value",
+			"att",
+			"Cursive",
+			"counter",
+			"i + 1",
+			"name",
+			"tank_1",
+			"help",
+			" ",
+			",",
+			"комбинированный",
+			"§",
+			"§ 1",
+			" ",
+			"tank_element.",
+			"math-input",
+			"Миша",
+			"let",
+			"placeholder",
+			"span",
+			"function_",
+			"value",
+			"\"",
+			"function",
+			"return",
+			"calculator__button_operation_exponentiation",
+			"let",
+			"querySelector",
+			"value",
+			"dash\n",
+			"htd",
+			"Protect",
+			"00",
+			"0",
+			"ms",
+			"ms\n",
+			"translate",
+			"-100%, 0"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": false,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 29.0
+	},
+	"input":
+	{
+		"height": 210.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 210.0
+	},
+	"pinned_build_system": "",
+	"project": "",
+	"replace":
+	{
+		"height": 72.0
+	},
+	"save_all_on_build": false,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.8,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"E:\\Apps\\SublimeText\\Data\\Packages\\SublimeText.sublime-workspace"
+			]
+		],
+		"width": 412.8
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 592.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 252.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
