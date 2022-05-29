@@ -116,7 +116,7 @@ export class Create_solve {
   
   
   
-  static init(solve_content, task_num, task, result_tru) {
-    this._create_solve(solve_content, task_num, task, result_tru);
+  static init(solve_content, task_num, task, result_true) {
+    this._create_solve(solve_content, task_num, task, result_true);
   }
 }

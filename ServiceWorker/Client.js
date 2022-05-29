@@ -6,7 +6,7 @@ function _on_controllerChange() {
 
 
 function main() {
-  navigator.serviceWorker.register('./ServiceWorker.js', {updateViaCache: 'none'});
+  navigator.serviceWorker.register('../ServiceWorker.js', {updateViaCache: 'none'});
 }
 
 

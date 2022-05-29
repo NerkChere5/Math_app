@@ -153,6 +153,7 @@ export class Tasks extends Component {
   
   _answer_false() {
     this._count_errors++;
+    
     if (this._count_errors == 1) {
       this._answers[this._task_num].style.borderColor = 'red';
       
