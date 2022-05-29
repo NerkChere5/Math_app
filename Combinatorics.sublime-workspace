@@ -519,139 +519,6 @@
 	},
 	"buffers":
 	[
-		{
-			"contents": "",
-			"settings":
-			{
-				"buffer_size": 0,
-				"line_ending": "Windows"
-			},
-			"undo_stack":
-			[
-				[
-					1,
-					1,
-					"insert",
-					{
-						"characters": "("
-					},
-					"AQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
-				],
-				[
-					2,
-					1,
-					"insert_snippet",
-					{
-						"contents": "$0)"
-					},
-					"AQAAAAEAAAAAAAAAAgAAAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAAAQAAAAAAAAABAAAAAAAAAAAAAAAAAPC/"
-				],
-				[
-					4,
-					1,
-					"insert",
-					{
-						"characters": " ="
-					},
-					"AgAAAAIAAAAAAAAAAwAAAAAAAAAAAAAAAwAAAAAAAAAEAAAAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAAAgAAAAAAAAACAAAAAAAAAAAAAAAAAPC/"
-				],
-				[
-					5,
-					1,
-					"insert",
-					{
-						"characters": ">"
-					},
-					"AQAAAAQAAAAAAAAABQAAAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAABAAAAAAAAAAEAAAAAAAAAAAAAAAAAPC/"
-				],
-				[
-					6,
-					1,
-					"insert_snippet",
-					{
-						"contents": "\n"
-					},
-					"AQAAAAUAAAAAAAAABgAAAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAABQAAAAAAAAAFAAAAAAAAAAAAAAAAAPC/"
-				],
-				[
-					9,
-					4,
-					"duplicate_line",
-					null,
-					"BAAAAAYAAAAAAAAADAAAAAAAAAAAAAAADAAAAAAAAAASAAAAAAAAAAAAAAASAAAAAAAAABgAAAAAAAAAAAAAABgAAAAAAAAAHgAAAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAAAQAAAAAAAAABAAAAAAAAAAAAAAAAAPC/"
-				],
-				[
-					15,
-					1,
-					"insert",
-					{
-						"characters": " "
-					},
-					"AQAAAAkAAAAAAAAACgAAAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAACQAAAAAAAAAJAAAAAAAAAAAAAAAAAPC/"
-				],
-				[
-					16,
-					1,
-					"left_delete",
-					null,
-					"AQAAAAkAAAAAAAAACQAAAAAAAAABAAAAIA",
-					"AQAAAAAAAAABAAAACgAAAAAAAAAKAAAAAAAAAAAAAAAAAPC/"
-				],
-				[
-					21,
-					1,
-					"insert",
-					{
-						"characters": "a"
-					},
-					"AQAAAAYAAAAAAAAABwAAAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAABgAAAAAAAAAGAAAAAAAAAAAAAAAAAPC/"
-				],
-				[
-					22,
-					1,
-					"insert",
-					{
-						"characters": " "
-					},
-					"AQAAAAcAAAAAAAAACAAAAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAABwAAAAAAAAAHAAAAAAAAAAAAAAAAAPC/"
-				],
-				[
-					25,
-					1,
-					"insert",
-					{
-						"characters": " "
-					},
-					"AQAAABIAAAAAAAAAEwAAAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAAEgAAAAAAAAASAAAAAAAAAAAAAAAAAPC/"
-				],
-				[
-					26,
-					1,
-					"left_delete",
-					null,
-					"AQAAABIAAAAAAAAAEgAAAAAAAAABAAAAIA",
-					"AQAAAAAAAAABAAAAEwAAAAAAAAATAAAAAAAAAAAAAAAAAPC/"
-				],
-				[
-					40,
-					1,
-					"left_delete",
-					null,
-					"AQAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAKCkgPT4KYSAoKSA9PgooKSA9PgooKSA9PgooKSA9Pgo",
-					"AQAAAAAAAAABAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
-				]
-			]
-		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -929,18 +796,19 @@
 	},
 	"file_history":
 	[
+		"/D/Web/Apps/Math_app/Api/Components/Tasks/Tasks.js",
+		"/D/Web/Apps/Math_app/Api/Components/Tasks/Tasks.html",
+		"/D/Web/Apps/Math_app/ServiceWorker/Options.js",
+		"/D/Web/Apps/Math_app/ServiceWorker/Client.js",
+		"/D/Web/Apps/Math_app/Api/Components/Tasks/Modules/duplicateSolve.js",
+		"/D/Web/Apps/Math_app/Api/Components/Tasks/Modules/createSolve.js",
 		"/C/Apps/SublimeText/Data/Packages/Js/Js.sublime-syntax",
 		"/C/Users/Admin/Desktop/ответ.json",
 		"/C/Users/Admin/Desktop/запрос.json",
 		"/C/Users/Admin/Desktop/Текст законопроекта",
-		"/D/Web/Apps/Math_app/Api/Components/Tasks/Tasks.html",
-		"/D/Web/Apps/Math_app/Api/Components/Tasks/Modules/duplicateSolve.js",
 		"/D/Web/Apps/Math_app/Api/Components/Slider/Slider.js",
 		"/D/Web/Apps/Math_app/Api/Components/Slider/Slider.html",
-		"/D/Web/Apps/Math_app/Api/Components/Tasks/Modules/createSolve.js",
-		"/D/Web/Apps/Math_app/Api/Components/Tasks/Tasks.js",
 		"/C/Apps/SublimeText/Data/Packages/Default/Default.sublime-keymap",
-		"/D/Web/Apps/Math_app/ServiceWorker/Client.js",
 		"/D/Web/Apps/Math_app/Api/Components/Tasks/Tasks.css",
 		"/D/Web/Apps/Math_app/index.html",
 		"/D/Web/Apps/Math_app/Api/Components/Popup/Popup.js",
@@ -1055,8 +923,7 @@
 		"/C/Files/Web/Games/05-aim-game-sources/app.js",
 		"/C/Files/Web/Games/05-aim-game-sources/styles.css",
 		"/C/Files/Web/Apps/Components/02-drag-n-drop-sources/app.js",
-		"/C/Files/Web/Apps/Components/01-cards-sources/app.js",
-		"/C/Files/Web/Games/05-aim-game-sources/index.html"
+		"/C/Files/Web/Apps/Components/01-cards-sources/app.js"
 	],
 	"find":
 	{
@@ -1197,35 +1064,6 @@
 		{
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"selected": true,
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 0,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Js/Js.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"stack_multiselect": false,
-					"type": "text"
-				}
 			]
 		}
 	],

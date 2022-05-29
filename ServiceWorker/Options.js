@@ -1,3 +1,3 @@
 let options = {
-  cache_name: 'Math_app_1.0.3',
+  cache_name: 'Math_app_1.0.4',
 };

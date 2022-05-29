@@ -36,11 +36,18 @@ export class Tasks extends Component {
     this._solve_content = this._body.querySelectorAll('.content_solve');
     
     
-    this._body.addEventListener('click', this._on_click.bind(this));
+    this._body.addEventListener('click', this._on__click.bind(this));
+    this._body.addEventListener('keydown', this._on__keydown.bind(this));
   }
   
   
-  _on_click(event) {
+  _on__keydown(event) {
+    if (event.code != 'Enter') return;
+    
+    this._check_answer();
+  }
+  
+  _on__click(event) {
     if (!event.target.classList.contains('check_btn')) return;
     
     this._check_answer();
@@ -112,6 +119,12 @@ export class Tasks extends Component {
   
   
   _check_answer() {
+    this._answers = this._body.querySelectorAll('input');
+    
+    let _answers_user = this._answers[this._task_num].value;
+    
+    if (!_answers_user) return
+    
     let types = [
       'sum',
       'multiplication',
@@ -135,10 +148,6 @@ export class Tasks extends Component {
     else {
       this._result_true = Combinatorics[type](this._task[0], this._task[1]);
     }
-    
-    this._answers = this._body.querySelectorAll('input');
-    
-    let _answers_user = this._answers[this._task_num].value;
     
     if (_answers_user == this._result_true) {
       this._count_errors = 0;
